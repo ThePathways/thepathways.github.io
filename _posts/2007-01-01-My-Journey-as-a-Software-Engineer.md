@@ -6,7 +6,7 @@ category: "Career Journey"
 ---
 
 
-<h1># {{page.title}}</h1>
+# {{page.title}}
 
 **Date: February 01, 2007**
 
