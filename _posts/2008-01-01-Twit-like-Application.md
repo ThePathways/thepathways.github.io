@@ -6,6 +6,7 @@ catagory: "System Design"
 ---
 
 # Case Study: Designing a Twitter-like Application
+ **Date: {{page.title | date: "%B %d, %Y" }} **
 
 Designing a system like Twitter involves multiple considerations, including scalability, performance, data storage, and user experience. Below is a comprehensive outline of the key components and design considerations for a Twitter-like application.
 
