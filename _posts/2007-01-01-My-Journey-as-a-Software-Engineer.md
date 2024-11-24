@@ -8,7 +8,7 @@ category: "Career Journey"
 
 # {{page.title}}
 
-**Date: {{page.title | date: "%B %d, %Y" }} **
+**Date: {{page.date | date: "%B %d, %Y" }} **
 
 Hello, world!
 
