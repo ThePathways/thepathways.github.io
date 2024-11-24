@@ -18,7 +18,7 @@ title: Home
 <ul>
 {% for article in sorted_articles %}
     <li>
-        <a href="{{ article.url }}">{{ article.title }}</a> - {{ article.date | date: "%B %d, %Y" }}
+        <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer">{{ article.title }}</a> - {{ article.date | date: "%B %d, %Y" }}
     </li>
 {% endfor %}
 </ul>
