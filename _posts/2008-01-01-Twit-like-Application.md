@@ -2,7 +2,7 @@
 layout: blog
 title: "Case Study: Designing a Twit-like Application"
 date: 2008-01-01
-catagory: "System Design"
+category: "System Design"
 ---
 
 # {{page.title}}
