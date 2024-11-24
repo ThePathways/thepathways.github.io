@@ -100,15 +100,15 @@ Designing a system like Twit involves multiple considerations, including scalabi
 ### 1. User Base Estimation
 Let's assume we aim to support 100 million active users.
 - **Daily Active Users (DAU):** Let's say 20% of users are active daily.
-DAU = 100 million * 20% = 20 million users
-2. Tweet Volume Estimation
+   DAU = 100 million * 20% = 20 million users
 
+### 2. Tweet Volume Estimation
 Assuming each active user posts an average of 1 tweet per day:
-
 Total Tweets per Day:
 Daily Tweets = DAU * Average Tweets per User
 Daily Tweets = 20 million * 1 = 20 million tweets
-3. Storage Requirements
+
+### 3. Storage Requirements
 
 Tweet Storage
 Assuming the average size of a tweet (including metadata) is around 200 bytes (280 characters + metadata):
@@ -130,7 +130,8 @@ User Storage = 100 million * 1 KB = 100 GB
 Total Storage Requirement
 Total Storage Requirement = Tweet Storage + User Storage
 Total Storage Requirement = 120 GB (tweets) + 100 GB (users) = 220 GB
-4. Database and Caching Needs
+
+### 4. Database and Caching Needs
 
 If we assume we need to handle 10,000 read requests per second (RPS) for user timelines and tweets:
 
@@ -139,7 +140,7 @@ If each read request takes about 10 milliseconds, then:
 Total Read Time = 10,000 RPS * 10 ms = 100 seconds of read time per second.
 To handle this load, you might need to use a database that can handle high throughput, possibly with sharding and replication.
 
-5. Bandwidth Requirements
+### 5. Bandwidth Requirements
 
 Assuming each tweet retrieval (including metadata) is around 1 KB and each user fetches about 20 tweets on average:
 
@@ -150,7 +151,8 @@ For 20 million daily active users:
 Total Bandwidth Requirement:
 Total Bandwidth = DAU * Bandwidth per User
 Total Bandwidth = 20 million * 20 KB = 400 million KB or 400 GB per day.
-6. Server Requirements
+
+### 6. Server Requirements
 
 Assuming each server can handle 1,000 RPS and we need to accommodate 10,000 RPS:
 
@@ -159,7 +161,7 @@ Total Servers = Total RPS / RPS per Server
 Total Servers = 10,000 RPS / 1,000 RPS = 10 servers
 If we assume that each server has a storage capacity of 1 TB, we can fit our estimated storage needs comfortably.
 
-7. Cost Estimation
+### 7. Cost Estimation
 
 Assuming the following costs:
 
@@ -172,6 +174,9 @@ Server Cost = 10 servers * $100 = $1,000
 Total Monthly Cost:
 
 Total Cost = Storage Cost + Server Cost = $4.40 + $1,000 = $1,004.40
+
+
+
 
 
 
