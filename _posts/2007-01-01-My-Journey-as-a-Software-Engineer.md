@@ -2,7 +2,7 @@
 layout: blog
 title: "My Journey as a Software Engineer: Starting from the Ground Up"
 date: 2007-01-01
-catagory: [Future Aspirations]
+catagory: [Career Journey]
 ---
 
 
