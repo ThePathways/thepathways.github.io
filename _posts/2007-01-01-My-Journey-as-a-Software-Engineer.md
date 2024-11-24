@@ -8,7 +8,7 @@ category: "Career Journey"
 
 # {{page.title}}
 
-**Date: February 01, 2007**
+**Date: {{page.title | date: "%B %d, %Y" }} **
 
 Hello, world!
 
