@@ -40,7 +40,7 @@ In this blog, I plan to document my journey as a software engineer. Here are a f
 
 4. **Company Culture**: I’ll reflect on the culture of the organization I work for, discussing how it influences collaboration, innovation, and overall job satisfaction.
 
-5. **Career Development**: I’ll reflect on my professional growth, including tips for navigating the corporate landscape, job hunting, and interviews.
+5. **Career Journey**: I’ll reflect on my professional growth, including tips for navigating the corporate landscape, job hunting, and interviews.
 
 6. **Personal Reflections**: I’ll share my thoughts on work-life balance, mental health, and the importance of community in the tech world.
 
