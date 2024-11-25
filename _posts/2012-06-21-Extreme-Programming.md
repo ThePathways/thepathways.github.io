@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: default
 title: "Embracing the Key Practices of Extreme Programming for Success"
 date: 2012-06-21
 category: "Development Methodologies"
