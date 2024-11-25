@@ -12,7 +12,7 @@ title: Home
 {% assign sorted_articles = category.items | sort: 'date' | reverse %}
 {% if sorted_articles.size > 0 %}
 <div>
-<ul>
+<ul style="list-style-type: none; padding: 0; margin: 0;">
 {% for article in sorted_articles %}
     <li>
         <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer">{{ article.title }}</a> - {{ article.date | date: "%B %d, %Y" }}
