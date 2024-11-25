@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Life Cycle of Agile/Scrum
-date: 2008-02-21
+date: 2007-01-21
 category: "Development Methodologies"
 ---
 
