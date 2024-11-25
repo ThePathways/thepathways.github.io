@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: blog
+title: "Embracing the Key Practices of Extreme Programming for Success"
 date: 2012-06-21
 catagory: []
 ---
@@ -10,7 +10,7 @@ catagory: []
 
 
 
-# Embracing the Key Practices of Extreme Programming for Agile Success
+# {{page.title}}
 
 As an experienced software engineer, I've spent years navigating the ever-evolving landscape of software development methodologies. Among the various approaches I've encountered, Extreme Programming (XP) stands out for its emphasis on collaboration, quality, and adaptability. In this blog post, I want to share the key practices of XP that have significantly influenced my work and can help your team achieve greater success in your projects.
 
