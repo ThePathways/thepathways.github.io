@@ -2,11 +2,14 @@
 layout: default
 title: "From 'Hello, World!' to a 18-Year Journey: Insights from My Career"
 date: 2024-12-14
-catagory: []
+category: "Career Journey"
 ---
 
 
-# {{ page.title }}
+# {{page.title}}
+
+**Date: {{page.date | date: "%B %d, %Y" }} **
+
 
 Hello, World! 
 
