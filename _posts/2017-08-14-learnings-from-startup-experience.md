@@ -2,7 +2,7 @@
 layout: default
 title: Key Learnings for Tech Professionals from a Startup Experience
 date: 2017-08-14
-catagory: []
+category: "Career Journey"
 ---
 
 
