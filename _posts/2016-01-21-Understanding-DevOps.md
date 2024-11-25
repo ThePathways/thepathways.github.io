@@ -2,14 +2,15 @@
 layout: default
 title: "Understanding DevOps: Bridging the Gap Between Development and Operations"
 date: 2016-01-21
-catagory: []
+catagory: "Development Methodologies"
 ---
 
 
 # {{page.title}}
 
+**Date: {{page.date | date: "%B %d, %Y" }} **
 
-
+Hello World!
 
 ## Introduction to DevOps
 
