@@ -1,6 +1,6 @@
 ---
 layout: layout
-title: Scrum vs. Kanban: Pros, Cons, and Scenarios
+title: "Scrum vs. Kanban: Pros, Cons, and Scenarios"
 date: 2009-03-21
 category: "Development Methodologies"
 ---
