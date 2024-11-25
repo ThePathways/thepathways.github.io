@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: default
 title: "Case Study: Designing a Twit-like Application"
 date: 2008-01-01
 category: "System Design"
