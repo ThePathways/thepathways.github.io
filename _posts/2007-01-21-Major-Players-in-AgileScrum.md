@@ -2,7 +2,7 @@
 layout: default
 title: Major Players in Agile/Scrum
 date: 2007-01-21
-catagory: Development Methodologies
+category: Development Methodologies
 ---
 
 
