@@ -1,18 +1,19 @@
 ---
 layout: layout
 title: "Scrum vs. Kanban: Pros, Cons, and Scenarios"
-date: 2009-03-21
+date: 2010-03-21
 category: "Development Methodologies"
 ---
 
 
 # {{page.title}}
 
+**Date: {{page.date | date: "%B %d, %Y" }} **
+
 Hello World!
 
-
-
-## Scrum
+## Scrum 
+A structured Agile framework that uses time-boxed iterations (Sprints) to deliver incremental product improvements through defined roles and regular feedback
 
 ### Pros
 1. **Structured Framework**: Provides clear roles (Scrum Master, Product Owner, Development Team) and defined events (Sprints, Daily Stand-ups).
@@ -33,6 +34,7 @@ Hello World!
 ---
 
 ## Kanban
+A flexible Agile methodology focused on visualizing work, managing flow, and continuously delivering tasks without fixed iterations.
 
 ### Pros
 1. **Flexibility**: Allows for continuous flow and quick adaptation to changing priorities without the constraints of time-boxed iterations.
