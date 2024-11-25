@@ -7,15 +7,9 @@ title: Home
 
 
 {% assign categories = site.posts | group_by: "category" %}
-
 {% for category in categories %}
-<!-- <details> -->
-<!-- <summary> -->  
 <strong> {{ category.name }} ({{ category.items.size }} articles) </strong>
-<!-- </summary> -->
-
 {% assign sorted_articles = category.items | sort: 'date' | reverse %}
-
 {% if sorted_articles.size > 0 %}
 <div>
 <ul>
@@ -29,7 +23,6 @@ title: Home
 {% else %}
 <p>No articles available in this category.</p>
 {% endif %}
-<!-- </details> -->
 {% endfor %}
 
 
