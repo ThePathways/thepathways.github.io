@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Mastering Scrum: A Comprehensive Guide to Scrum"
-date: 2007-01-21
+date: 2008-01-21
 category: "Development Methodologies"
 ---
 
