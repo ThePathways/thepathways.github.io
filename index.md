@@ -5,7 +5,7 @@ layout: default
 
 
 
-
+:+1:
 
    It’s 2006, and I wrote my first program on the job. Since then, I’ve explored various roles in the tech industry—from software engineer to architect, software manager, and program manager—working in both startups and Fortune 100 companies. Throughout this journey, I’ve gathered invaluable lessons that I believe can benefit both seasoned professionals and newcomers alike.
 
