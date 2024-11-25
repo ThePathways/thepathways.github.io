@@ -2,7 +2,7 @@
 layout: default
 title: "Major DevOps Tools"
 date: 2017-02-21
-catagory: [Tools]
+catagory: ["Tools"]
 ---
 
 
