@@ -1,8 +1,3 @@
-title: <sup><center>{A Blog about software dvelopment}</center></sup>
+title: <sup><center><u>{A Blog about software dvelopment}</u></center></sup>
 baseurl: ""
-
-font: 'Roboto'
-font_weights:
-  regular: 400
-  bold: 700
 
