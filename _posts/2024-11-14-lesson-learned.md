@@ -12,7 +12,7 @@ category: "Career Journey"
 
 Hello, World! 
 
-It’s hard to believe that 18 years ago, I wrote my first program on the job. That simple line of code—“Hello, World!”—was not just an introduction to programming; it marked the beginning of a rewarding journey in the world of software engineering. Over the years, I’ve navigated various roles, from software engineer to architect, software manager, and program manager, working in both startups and Fortune 100 companies. Along the way, I’ve gathered invaluable lessons that I believe can benefit both seasoned professionals and newcomers alike.
+It’s hard to believe that in 2006, I wrote my first program on the job. That simple line of code—“Hello, World!”—was not just an introduction to programming; it marked the beginning of a rewarding journey in the world of software engineering. Over the years, I’ve navigated various roles, from software engineer to architect, software manager, and program manager, working in both startups and Fortune 100 companies. Along the way, I’ve gathered invaluable lessons that I believe can benefit both seasoned professionals and newcomers alike.
 
 Here are the key insights I’ve learned over the years, grouped into meaningful categories.
 
