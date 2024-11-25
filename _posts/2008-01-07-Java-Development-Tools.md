@@ -12,6 +12,7 @@ category: Tools
 - **Eclipse**: A popular open-source IDE known for its extensibility through a wide range of plugins.
 - **NetBeans**: An IDE that offers good support for Java and related technologies, making it suitable for both novice and expert developers.
 - **JDeveloper**: An IDE from Oracle tailored for building applications with Java and Oracle technologies.
+- **Visual Studio Code (VSCode)**: A lightweight, open-source code editor that supports Java development through extensions, providing features like IntelliSense, debugging, and version control integration.
 
 ## 2. Build Tools
 - **Maven**: A project management tool that uses XML for configuration, managing project dependencies and build processes effectively.
