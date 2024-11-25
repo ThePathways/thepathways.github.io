@@ -12,10 +12,6 @@ category: "Development Methodologies"
 
 Hello World!
 
-Today let me write about the Scrum life cycle, consists of several key components and phases that guide teams through the development process. Below are the main elements of the Scrum framework:
-
-# Understanding the Waterfall Model: A Traditional Approach to Project Management
-
 In the realm of project management, various methodologies exist to guide teams in delivering successful projects. Among these, the Waterfall model stands out as one of the oldest and most traditional approaches. Known for its linear and sequential structure, the Waterfall model is particularly prevalent in software development and engineering projects. This article will explore the Waterfall model, its phases, advantages, disadvantages, and when to use it effectively.
 
 ## What is the Waterfall Model?
