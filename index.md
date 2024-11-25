@@ -11,7 +11,7 @@ title: Home
 {% for category in categories %}
 <details>
 <summary>    
-## {{ category.name }} ({{ category.items.size }} articles)
+<strong> {{ category.name }} ({{ category.items.size }} articles) </strong>
 </summary>
 
 {% assign sorted_articles = category.items | sort: 'date' | reverse %}
