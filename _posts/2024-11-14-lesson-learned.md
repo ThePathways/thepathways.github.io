@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "My Journey as a Software Engineer: Starting from the Ground Up"
+title: "From 'Hello, World!' to a 18-Year Journey: Insights from My Career"
 date: 2024-11-14
 category: "Career Journey"
 ---
