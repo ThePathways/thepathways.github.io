@@ -9,7 +9,10 @@ title: Home
 {% assign categories = site.posts | group_by: "category" %}
 
 {% for category in categories %}
+<details>
+<summary>    
 ## {{ category.name }} ({{ category.items.size }} articles)
+</summary>
 
 {% assign sorted_articles = category.items | sort: 'date' | reverse %}
 
@@ -26,6 +29,7 @@ title: Home
 {% else %}
 <p>No articles available in this category.</p>
 {% endif %}
+</details>
 {% endfor %}
 
 
