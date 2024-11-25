@@ -6,11 +6,11 @@ catagory: []
 ---
 
 
-
-
-
-
 # {{page.title}}
+
+**Date: {{page.date | date: "%B %d, %Y" }} **
+
+Hello World!
 
 As an experienced software engineer, I've spent years navigating the ever-evolving landscape of software development methodologies. Among the various approaches I've encountered, Extreme Programming (XP) stands out for its emphasis on collaboration, quality, and adaptability. In this blog post, I want to share the key practices of XP that have significantly influenced my work and can help your team achieve greater success in your projects.
 
