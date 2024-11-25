@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: default
 title: Life Cycle of Scrum
 date: 2008-02-21
 category: "Development Methodologies"
