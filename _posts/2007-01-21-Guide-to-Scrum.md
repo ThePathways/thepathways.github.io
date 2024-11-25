@@ -39,26 +39,26 @@ Scrum defines three key roles:
 
 ### 2. Responsibilities
 
-**Product Owner:**
-- **Vision and Goals**: Defines the product vision and communicates it to the team and stakeholders.
-- **Backlog Management**: Creates, maintains, and prioritizes the product backlog, ensuring it reflects the needs of stakeholders and customers.
-- **Stakeholder Engagement**: Acts as the primary point of contact for stakeholders, gathering feedback and aligning the product with their needs.
-- **Acceptance Criteria**: Defines acceptance criteria for backlog items and ensures that the development team understands them.
-- **Decision Maker**: Makes decisions regarding the release of increments and prioritizes work based on business value and stakeholder input.
+- **Product Owner:**
+  - **Vision and Goals**: Defines the product vision and communicates it to the team and stakeholders.
+  - **Backlog Management**: Creates, maintains, and prioritizes the product backlog, ensuring it reflects the needs of stakeholders and customers.
+  - **Stakeholder Engagement**: Acts as the primary point of contact for stakeholders, gathering feedback and aligning the product with their needs.
+  - **Acceptance Criteria**: Defines acceptance criteria for backlog items and ensures that the development team understands them.
+  - **Decision Maker**: Makes decisions regarding the release of increments and prioritizes work based on business value and stakeholder input.
 
-**Development Team:**
-- **Self-Organization**: Works collaboratively and self-organizes to determine how to accomplish the work in the sprint.
-- **Cross-Functional Skills**: Comprises individuals with various skills necessary to deliver a potentially shippable product increment at the end of each sprint.
-- **Daily Scrum**: Participates in daily stand-up meetings to synchronize activities, discuss progress, and identify obstacles.
-- **Development Work**: Responsible for designing, developing, testing, and delivering the product increment.
-- **Continuous Improvement**: Engages in sprint retrospectives to reflect on the process and identify areas for improvement.
+- **Development Team:**
+  - **Self-Organization**: Works collaboratively and self-organizes to determine how to accomplish the work in the sprint.
+  - **Cross-Functional Skills**: Comprises individuals with various skills necessary to deliver a potentially shippable product increment at the end of each sprint.
+  - **Daily Scrum**: Participates in daily stand-up meetings to synchronize activities, discuss progress, and identify obstacles.
+  - **Development Work**: Responsible for designing, developing, testing, and delivering the product increment.
+  - **Continuous Improvement**: Engages in sprint retrospectives to reflect on the process and identify areas for improvement.
 
-**Scrum Master:**
-- **Facilitator**: Facilitates Scrum events (e.g., sprint planning, daily scrums, sprint reviews, and retrospectives) to ensure they are productive and focused.
-- **Coaching**: Coaches the team on Scrum principles and practices, helping them understand and adopt Agile methodologies.
-- **Impediment Removal**: Identifies and helps remove obstacles that may hinder the team's progress, ensuring a smooth workflow.
-- **Shielding the Team**: Protects the team from external interruptions and distractions, allowing them to focus on their work.
-- **Collaboration**: Works with the Product Owner to ensure that the backlog is well-defined and that the team understands the priorities.
+- **Scrum Master:**
+  - **Facilitator**: Facilitates Scrum events (e.g., sprint planning, daily scrums, sprint reviews, and retrospectives) to ensure they are productive and focused.
+  - **Coaching**: Coaches the team on Scrum principles and practices, helping them understand and adopt Agile methodologies.
+  - **Impediment Removal**: Identifies and helps remove obstacles that may hinder the team's progress, ensuring a smooth workflow.
+  - **Shielding the Team**: Protects the team from external interruptions and distractions, allowing them to focus on their work.
+  - **Collaboration**: Works with the Product Owner to ensure that the backlog is well-defined and that the team understands the priorities.
   
 
 ### 3. Events
