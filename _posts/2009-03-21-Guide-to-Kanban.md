@@ -6,10 +6,9 @@ Category: "Development Methodologies"
 ---
 
 
-
 # {{page.title}}
 
-
+**Date: {{page.date | date: "%B %d, %Y" }} **
 
 Hello World!
 
