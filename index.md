@@ -8,7 +8,7 @@ title: Home
 
 {% assign categories = site.posts | group_by: "category" %}
 {% for category in categories %}
-## {{ category.name }} ({{ category.items.size }} articles)
+## {{ category.name }} <!-- ({{ category.items.size }} articles) --> 
 {% assign sorted_articles = category.items | sort: 'date' | reverse %}
 {% if sorted_articles.size > 0 %}
 <div>
