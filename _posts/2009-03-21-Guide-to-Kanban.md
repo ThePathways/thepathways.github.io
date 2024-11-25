@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Unlocking Efficiency: A Comprehensive Guide to Kanban
+title: "Unlocking Efficiency: A Comprehensive Guide to Kanban"
+Date: 2009-03-21
+Category: "Development Methodologies"
 ---
-
 
 
 
