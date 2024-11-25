@@ -12,6 +12,8 @@ category: "Development Methodologies"
 
 Hello World!
 
+Let me compare scrum vs kanban, two most used agile frameworks....
+
 ## Scrum 
 A structured Agile framework that uses time-boxed iterations (Sprints) to deliver incremental product improvements through defined roles and regular feedback
 
