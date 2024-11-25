@@ -70,33 +70,33 @@ Scrum consists of several time-boxed events that structure the workflow:
 - **Sprint Retrospective**: A meeting held after the sprint review to reflect on the sprint and identify opportunities for improvement.
 
 
-## 3. **Events**
+### 3. Events
 Scrum consists of several time-boxed events that structure the workflow:
-### 1. **Sprint Planning**
-- **Purpose**: To define what can be delivered in the upcoming Sprint and how that work will be achieved.
-- **Participants**: The entire Scrum team (Product Owner, Scrum Master, and Development Team).
-- **Outcome**: A Sprint Goal and a Sprint Backlog.
+- **Sprint Planning**
+  - **Purpose**: To define what can be delivered in the upcoming Sprint and how that work will be achieved.
+  - **Participants**: The entire Scrum team (Product Owner, Scrum Master, and Development Team).
+  - **Outcome**: A Sprint Goal and a Sprint Backlog.
 
-### 2. **The Sprint**
-- **Duration**: Typically 1 to 4 weeks, with a consistent length for all Sprints.
-- **Activities**: The Development Team works on the items in the Sprint Backlog to create a product increment.
+- **The Sprint**
+  - **Duration**: Typically 1 to 4 weeks, with a consistent length for all Sprints.
+  - **Activities**: The Development Team works on the items in the Sprint Backlog to create a product increment.
 
-### 3. **Daily Scrum (Stand-up)**
-- **Purpose**: A short, time-boxed meeting (usually 15 minutes) for the Development Team to synchronize activities and plan for the next 24 hours.
-- **Focus**: Each team member answers three questions:
-  1. What did I do yesterday?
-  2. What will I do today?
-  3. Are there any impediments in my way?
+- **Daily Scrum (Stand-up)**
+  - **Purpose**: A short, time-boxed meeting (usually 15 minutes) for the Development Team to synchronize activities and plan for the next 24 hours.
+  - **Focus**: Each team member answers three questions:
+      1. What did I do yesterday?
+      2. What will I do today?
+      3. Are there any impediments in my way?
 
-### 4. **Sprint Review**
-- **Purpose**: To inspect the increment and adapt the Product Backlog if needed.
-- **Participants**: Scrum Team and stakeholders.
-- **Outcome**: A demonstration of the completed work and feedback from stakeholders.
+- **Sprint Review**
+  - **Purpose**: To inspect the increment and adapt the Product Backlog if needed.
+  - **Participants**: Scrum Team and stakeholders.
+  - **Outcome**: A demonstration of the completed work and feedback from stakeholders.
 
-### 5. **Sprint Retrospective**
-- **Purpose**: To reflect on the past Sprint and identify opportunities for improvement.
-- **Participants**: The Scrum Team.
-- **Outcome**: Actionable items to improve processes, collaboration, and effectiveness in the next Sprint.
+- **Sprint Retrospective**
+  - **Purpose**: To reflect on the past Sprint and identify opportunities for improvement.
+  - **Participants**: The Scrum Team.
+  - **Outcome**: Actionable items to improve processes, collaboration, and effectiveness in the next Sprint.
 
 
 ### 4. Artifacts
