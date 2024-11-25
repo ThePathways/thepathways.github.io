@@ -60,16 +60,6 @@ Scrum defines three key roles:
   - **Shielding the Team**: Protects the team from external interruptions and distractions, allowing them to focus on their work.
   - **Collaboration**: Works with the Product Owner to ensure that the backlog is well-defined and that the team understands the priorities.
   
-
-### 3. Events
-Scrum consists of several time-boxed events that structure the workflow:
-- **Sprint**: A fixed-length iteration (usually 1-4 weeks) during which the team works to complete a set of tasks.
-- **Sprint Planning**: A meeting held at the beginning of each sprint to define the sprint goal and select items from the product backlog to work on.
-- **Daily Scrum**: A short, daily meeting where team members synchronize their activities and discuss progress, challenges, and plans for the day.
-- **Sprint Review**: A meeting at the end of the sprint where the team demonstrates the completed work to stakeholders and gathers feedback.
-- **Sprint Retrospective**: A meeting held after the sprint review to reflect on the sprint and identify opportunities for improvement.
-
-
 ### 3. Events
 Scrum consists of several time-boxed events that structure the workflow:
 - **Sprint Planning**
