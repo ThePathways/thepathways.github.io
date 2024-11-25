@@ -9,7 +9,7 @@ title: Home
 {% assign categories = site.posts | group_by: "category" %}
 
 {% for category in categories %}
-<details>## {{ category.name }} ({{ category.items.size }} articles)</details>
+## {{ category.name }} ({{ category.items.size }} articles)
 
 {% assign sorted_articles = category.items | sort: 'date' | reverse %}
 
