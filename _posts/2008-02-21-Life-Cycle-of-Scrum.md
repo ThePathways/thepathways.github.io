@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Life Cycle of Scrum
+title: Life Cycle of Agile/Scrum
 date: 2008-02-21
 category: "Development Methodologies"
 ---
@@ -59,3 +59,4 @@ Today let me write about the Scrum life cycle, consists of several key component
 
 ## Conclusion
 The Scrum life cycle is designed to promote collaboration, flexibility, and continuous improvement. By following the roles, artifacts, and events outlined in this framework, teams can effectively manage complex projects and deliver high-quality products that meet customer needs.
+
