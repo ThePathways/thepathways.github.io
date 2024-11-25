@@ -2,7 +2,7 @@
 layout: blog
 title: "Embracing the Key Practices of Extreme Programming for Success"
 date: 2012-06-21
-catagory: "Development Methodologies"
+category: "Development Methodologies"
 ---
 
 
