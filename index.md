@@ -24,7 +24,7 @@ Thank you for joining me! I encourage you to share your thoughts, experiences, a
 <ul style="list-style-type: none; padding: 0; margin: 0;">
 {% for article in sorted_articles %}
     <li>
-        <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer">{{ article.title }}</a>  <sub> - {{ article.date | date: "%B %d, %Y" }}</sub>
+        <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer">{{ article.title }}</a>  <small> - {{ article.date | date: "%B %d, %Y" }}</small>
     </li>
 {% endfor %}
 </ul>
