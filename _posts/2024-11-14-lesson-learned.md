@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "My Journey as a Software Engineer: Starting from the Ground Up"
-date: 2007-01-01
+date: 2024-11-14
 category: "Career Journey"
 ---
 
