@@ -36,17 +36,17 @@ In this blog, I plan to document my journey as a software engineer. Here are a f
 
 2. **System Design**: I’ll delve into the principles of system design, discussing best practices and lessons learned from real-world applications.
 
-3. **Career Development**: I’ll reflect on my professional growth, including tips for navigating the corporate landscape, job hunting, and interviews.
+3. **Development Methodologies**: I’ll explore various development methodologies like Agile and Waterfall, discussing their impact on project success and team dynamics.
 
-4. **Industry Trends**: I’ll keep an eye on emerging trends in technology and software engineering, sharing my thoughts on where the industry is heading.
+4. **Company Culture**: I’ll reflect on the culture of the organization I work for, discussing how it influences collaboration, innovation, and overall job satisfaction.
 
-5. **Personal Reflections**: I’ll share my thoughts on work-life balance, mental health, and the importance of community in the tech world.
+5. **Career Development**: I’ll reflect on my professional growth, including tips for navigating the corporate landscape, job hunting, and interviews.
 
-6. **Development Methodologies**: I’ll explore various development methodologies like Agile and Waterfall, discussing their impact on project success and team dynamics.
+6. **Personal Reflections**: I’ll share my thoughts on work-life balance, mental health, and the importance of community in the tech world.
 
 7. **Future Aspirations**: I’ll outline my goals for the future, including skills I want to acquire and milestones I hope to achieve in my career.
 
-8. **Company Culture**: I’ll reflect on the culture of the organization I work for, discussing how it influences collaboration, innovation, and overall job satisfaction.
+8. **Industry Trends**: I’ll keep an eye on emerging trends in technology and software engineering, sharing my thoughts on where the industry is heading.
 
 ## Conclusion
 
