@@ -6,11 +6,12 @@ category: [Tools]
 ---
 
 
+# {{page.title}}
 
+**Date: {{page.date | date: "%B %d, %Y" }} **
 
-
-
-# Major DevOps Tools
+Hello World!
+This list captures the essential tools in the DevOps ecosystem.
 
 ## 1. Version Control
 - **Git**: A distributed version control system that allows teams to track changes in source code.
