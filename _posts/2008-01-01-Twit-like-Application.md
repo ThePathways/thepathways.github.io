@@ -11,7 +11,7 @@ category: "System Design"
 
 Hello, world!
 
-Today I am writing about designing a system like Twit,which involves multiple considerations, including scalability, performance, data storage, and user experience. Below is a comprehensive outline of the key components and design considerations for a Twitter-like application.
+Today I am writing about designing a system like Twit, which involves multiple considerations, including scalability, performance, data storage, and user experience. Below is a comprehensive outline of the key components and design considerations for a Twitter-like application.
 
 ## 1. Requirements Gathering
 
