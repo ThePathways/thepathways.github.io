@@ -2,7 +2,7 @@
 layout: default
 title: "Understanding DevOps: Bridging the Gap Between Development and Operations"
 date: 2016-01-21
-catagory: "Development Methodologies"
+category: "Development Methodologies"
 ---
 
 
