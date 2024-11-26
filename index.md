@@ -34,4 +34,6 @@ Thank you for joining me! I encourage you to share your thoughts, experiences, a
 {% endif %}
 {% endfor %}
 
+{% include utterances.html %}
+
 
