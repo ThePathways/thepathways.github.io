@@ -2,8 +2,7 @@ title: <center><h1><sub>{The Software Engineering Web Log}</sub></h1></center>
 baseurl: ""
 
 utterances:
-  repo: "thepathways.github.io"
+  repo: "ThePathways/thepathways.github.io"
   issue-term: "pathname"
   label: "utterances"
   theme: "github-light"
-
