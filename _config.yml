@@ -5,4 +5,4 @@ utterances:
   repo: "ThePathways/thepathways.github.io"
   issue-term: "pathname"
   label: "utterances"
-  theme: ""garth-jekyll-theme"
+  theme: "garth-jekyll-theme"
